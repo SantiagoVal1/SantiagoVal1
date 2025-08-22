@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hello, I'm Santiago Valencia | Hola, soy Santiago Valencia  
 
-<!--
-**SantiagoVal1/SantiagoVal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineering Student | Estudiante de Ingeniería de Software**  
+💻 Currently learning **JavaScript** and building my programming foundation.  
+🌱 Passionate about technology, problem-solving, and continuous learning.  
+📂 Check out my repositories to see my progress and projects.  
+📫 You can reach me here on GitHub.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌐 About Me | Sobre mí  
+
+- 🎯 **First-year Software Engineering student** with strong motivation to grow as a developer.  
+- 📘 Learning about **algorithms, programming fundamentals, and software development tools**.  
+- 🛠️ Interested in **web development, problem solving, and software design**.  
+- 🌍 I enjoy learning languages, both human and programming ones.  
+
+---
+
+## 🛠️ Skills | Habilidades  
+
+- **Languages | Lenguajes**: JavaScript (learning), HTML, CSS (basics)  
+- **Tools | Herramientas**: Git, GitHub, VS Code  
+
+---
+
+## 📂 Projects | Proyectos  
+
+Here you will find my journey from beginner projects to more advanced ones.  
+Aquí encontrarás mi camino desde proyectos básicos hasta más avanzados.  
+
+---
+
+## 📫 Contact  
+
+- 📍 GitHub Profile: [SantiagoVal1](https://github.com/santiagoval1)  
+
+---
+⭐ *Thank you for visiting my profile! | ¡Gracias por visitar mi perfil!* ⭐
+
 -->
