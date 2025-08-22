@@ -19,8 +19,15 @@
 
 ## 🛠️ Skills | Habilidades  
 
-- **Languages | Lenguajes**: JavaScript (learning), HTML, CSS (basics)  
-- **Tools | Herramientas**: Git, GitHub, VS Code  
+### Languages | Lenguajes  
+![JavaScript](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)  
+![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)  
+![CSS3](https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg)  
+
+### Tools | Herramientas  
+![Git](https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg)  
+![GitHub](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)  
+![VS Code](https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg)  
 
 ---
 
@@ -38,4 +45,3 @@ Aquí encontrarás mi camino desde proyectos básicos hasta más avanzados.
 ---
 ⭐ *Thank you for visiting my profile! | ¡Gracias por visitar mi perfil!* ⭐
 
--->
